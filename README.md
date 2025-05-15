@@ -89,9 +89,10 @@
 
   <div class="content">
     <h1>🎓 Lễ Tốt Nghiệp Khóa 24 🎓</h1>
-    <p>Trân trọng kính mời bạn đến tham dự buổi lễ tốt nghiệp!</p>
-    <p>⏰ Thời gian: 8:00, ngày 25/06/2025</p>
-    <p>📍 Địa điểm: Hội trường lớn - Học viện Ngân hàng</p>
+    <p>Trân trọng kính mời người thân đáng quý đến tham dự buổi lễ tốt nghiệp!</p>
+    <p>⏰ Thời gian: 9:30, ngày 24/05/2025</p>
+    <p>📍 Địa điểm: Hội trường lớn D1 - Học viện Ngân Hàng</p>
+    <p>📍 Liên hệ: Huynh Trần - 0373.656.918</p>
     <p>💌 Hãy đến và cùng lưu giữ những khoảnh khắc đáng nhớ nhé!</p>
   </div>
 
